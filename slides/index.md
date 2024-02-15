@@ -408,11 +408,13 @@ Interesting readings:
 
 ## Thank you!
 
-- **Restate**
-  - https://restate.dev
-  - https://docs.restate.dev
-  - https://github.com/restatedev/examples/tree/main/kotlin
-- **Kotlin coroutines**
-  - https://kotlinlang.org/docs/coroutines-basics.html
-  - https://kotlinlang.org/docs/coroutine-context-and-dispatchers.html
-  - https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-core/
+---
+
+![](qr-code.png)
+
+- https://restate.dev
+- https://docs.restate.dev
+- https://github.com/restatedev/examples/tree/main/kotlin
+- https://kotlinlang.org/docs/coroutines-basics.html
+- https://kotlinlang.org/docs/coroutine-context-and-dispatchers.html
+- https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-core/
